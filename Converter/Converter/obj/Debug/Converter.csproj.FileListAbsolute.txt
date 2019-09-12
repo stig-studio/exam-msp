@@ -1,0 +1,6 @@
+C:\Users\STIG-\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter\Converter\bin\Debug\Converter.dll
+C:\Users\STIG-\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\STIG-\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\STIG-\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\STIG-\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter\Converter\obj\Debug\Converter.dll
+C:\Users\STIG-\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter\Converter\obj\Debug\Converter.pdb
