@@ -1,0 +1,67 @@
+﻿<Window x:Class="Converter_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Converter_WPF"
+        mc:Ignorable="d"
+        Title="Converter" Height="440.466" Width="431.038">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Градусы в радианы -->
+        <Label Grid.Column="3" Grid.ColumnSpan="4" Grid.Row="2" HorizontalAlignment="Center" Content="Градусы в радианы" FontSize="13"/>
+        <TextBox Name="txtb_deg" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="3" Margin="5" TextChanged="txtb_deg_TextChanged" VerticalContentAlignment="Center"/>
+        <Button Name="btn_deg_to_rad" Content=">" Grid.Column="4" Grid.ColumnSpan="2" Grid.Row="3" Margin="10 5" IsEnabled="False" Click="btn_deg_to_rad_Click"/>
+        <TextBox Name="txtb_rad_res" Grid.Column="6" Grid.ColumnSpan="3" Grid.Row="3" Margin="5" VerticalContentAlignment="Center"/>
+        <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+        
+        <!-- Радианы в градусы -->
+        <Label Grid.Column="3" Grid.ColumnSpan="4" Grid.Row="4" HorizontalAlignment="Center" Content="Радианы в градусы" FontSize="13"/>
+        <TextBox Name="txtb_rad" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="5" Margin="5" VerticalContentAlignment="Center" TextChanged="txtb_deg_TextChanged"/>
+        <Button Name="btn_rad_to_deg" Content=">" Grid.Column="4" Grid.ColumnSpan="2" Grid.Row="5" Margin="10 5" IsEnabled="False" Click="btn_rad_to_deg_Click"/>
+        <TextBox Name="txtb_deg_res" Grid.Column="6" Grid.ColumnSpan="3" Grid.Row="5" Margin="5" VerticalContentAlignment="Center"/>
+        <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+        <!-- Километры в мили -->
+        <Label Grid.Column="3" Grid.ColumnSpan="4" Grid.Row="6" HorizontalAlignment="Center" Content="Километры в мили" FontSize="13"/>
+        <TextBox Name="txtb_km" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="7" Margin="5" VerticalContentAlignment="Center" TextChanged="txtb_deg_TextChanged"/>
+        <Button Name="btn_km_to_ml" Content=">" Grid.Column="4" Grid.ColumnSpan="2" Grid.Row="7" Margin="10 5" IsEnabled="False" Click="btn_km_to_ml_Click"/>
+        <TextBox Name="txtb_ml_res" Grid.Column="6" Grid.ColumnSpan="3" Grid.Row="7" Margin="5" VerticalContentAlignment="Center"/>
+        <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+        <!-- Мили в километры -->
+        <Label Grid.Column="3" Grid.ColumnSpan="4" Grid.Row="8" HorizontalAlignment="Center" Content="Километры в мили" FontSize="13"/>
+        <TextBox Name="txtb_ml" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="9" Margin="5" VerticalContentAlignment="Center" TextChanged="txtb_deg_TextChanged"/>
+        <Button Name="btn_ml_to_km" Content=">" Grid.Column="4" Grid.ColumnSpan="2" Grid.Row="9" Margin="10 5" IsEnabled="False" Click="btn_ml_to_km_Click"/>
+        <TextBox Name="txtb_km_res" Grid.Column="6" Grid.ColumnSpan="3" Grid.Row="9" Margin="5" VerticalContentAlignment="Center"/>
+        <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.csprojAssemblyReference.cache
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\App.g.cs
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF_MarkupCompile.cache
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF_MarkupCompile.lref
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\bin\Debug\Converter_WPF.exe.config
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\bin\Debug\Converter_WPF.exe
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\bin\Debug\Converter_WPF.pdb
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\MainWindow.baml
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.g.resources
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.Properties.Resources.resources
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.csproj.GenerateResource.cache
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.csproj.CoreCompileInputs.cache
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.csproj.CopyComplete
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.exe
+C:\Users\STIG\OneDrive\Классная работа\Управление программными проектами\12.09.2019 ( exam )\Converter_WPF\Converter_WPF\obj\Debug\Converter_WPF.pdb
